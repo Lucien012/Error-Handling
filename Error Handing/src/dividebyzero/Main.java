@@ -1,5 +1,8 @@
 package dividebyzero;
 
+/**
+ * @author jx
+ */
 public class Main {
 
     /**
